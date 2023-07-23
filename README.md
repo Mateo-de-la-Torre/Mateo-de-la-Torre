@@ -1,5 +1,5 @@
 ### Hi! I'm Mateo 👋
-<br>
+<hr>
 Full Stack Developer
 
 <!--
