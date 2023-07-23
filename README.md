@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Mateo de la Torre 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 About Me **- I am from Rosario, Argentina**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mateo-de-la-torre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateo-de-la-torre" height="30" width="40" /></a>
-</p>
+- 💬 About Me ****
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -19,3 +14,9 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mateo-de-la-torre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateo-de-la-torre" height="30" width="40" /></a>
+</p>
