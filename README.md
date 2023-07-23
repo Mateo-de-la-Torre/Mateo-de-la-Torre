@@ -1,5 +1,4 @@
-### Hi! I'm Mateo 👋
-<hr>
+### Hi! I'm Mateo 👋<hr>
 Full Stack Developer
 
 <!--
