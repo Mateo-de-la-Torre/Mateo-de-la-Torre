@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Mateo de la Torre 👋</h1>
  <h3 align="center">Full Stack Developer
 
-## 💬 About Me ****
+## 💬 About Me: 
+      - Tengo 20 años y soy de Rosario, Santa Fe, Argentina
 
 ## Technologias:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
