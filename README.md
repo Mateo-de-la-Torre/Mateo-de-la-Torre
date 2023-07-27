@@ -2,7 +2,9 @@
  <h3 align="center">Full Stack Developer
 
 ## 💬 About Me: 
-      - Tengo 20 años y soy de Rosario, Santa Fe, Argentina
+      - Tengo 20 años y soy de Rosario, Santa Fe, Argentina.
+      - Me gustaria crecer en el mundo IT, trabajando en equipo
+      
 
 ## Technologias:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
