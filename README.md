@@ -20,9 +20,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/mateo-de-la-torre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMhgHDMTFBHsZCbdwsCBCZGqjGNVVmHSVVBdKQHVPstPpJsgFWbDRmvBScShhvkdbBzGzg" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="Email" height="30" width="40" /></a>
-</p>
-
-<!--
-<a href="mateodelatorre@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-mateodelatorre@gmail.com-blue?style=flat-square&logo=gmail"></a>  
--->
